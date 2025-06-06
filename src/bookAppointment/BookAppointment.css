@@ -1,0 +1,16 @@
+.responsive-form-border {
+  /* border: 2px solid #15181b; */
+  border-radius: 10px;
+  padding: 20px;
+  /* background-color: #fff; */
+  max-width: 700px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+}
+
+/* Make padding smaller on small screens */
+@media (max-width: 576px) {
+  .responsive-form-border {
+    padding: 15px;
+    border-width: 1px;
+  }
+}

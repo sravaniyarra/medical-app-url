@@ -1,0 +1,24 @@
+.specialties-section {
+  padding: 40px 20px;
+  background-color: #f9f9f9;
+  text-align: center;
+}
+
+.specialties-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 30px;
+  margin-top: 30px;
+}
+
+.specialty-card {
+  background: white;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgb(0 0 0 / 0.1);
+}
+
+.specialty-icon {
+  font-size: 40px;
+  margin-bottom: 15px;
+}

@@ -1,0 +1,43 @@
+.custom-carousel {
+  height: 90vh;
+}
+
+.custom-carousel img {
+  height: 90vh;
+  width: 100%;
+  object-fit: cover;
+  object-position: center 10%; /* Shift view slightly downward */
+}
+
+
+
+.custom-caption {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: 10px;
+}
+@media (max-width: 576px) {
+  .custom-carousel {
+    height: 40vh;
+  }
+  .custom-carousel img {
+    height: 40vh; /* smaller height on very small devices */
+  }
+}
+
+@media (max-width: 768px) {
+  .custom-caption {
+    max-width: 90%;
+    padding: 10px;
+  }
+  .custom-caption h3 {
+    font-size: 1.5rem;
+  }
+  .custom-caption p {
+    font-size: 1rem;
+  }
+  .custom-caption .btn {
+    font-size: 0.9rem;
+    padding: 8px 16px;
+  }
+}
