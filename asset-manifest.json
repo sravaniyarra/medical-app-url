@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/medical-app-ui/static/css/main.de1c9320.css",
-    "main.js": "/medical-app-ui/static/js/main.780a8a20.js",
-    "static/js/453.ce6e0e74.chunk.js": "/medical-app-ui/static/js/453.ce6e0e74.chunk.js",
-    "index.html": "/medical-app-ui/index.html",
-    "main.de1c9320.css.map": "/medical-app-ui/static/css/main.de1c9320.css.map",
-    "main.780a8a20.js.map": "/medical-app-ui/static/js/main.780a8a20.js.map",
-    "453.ce6e0e74.chunk.js.map": "/medical-app-ui/static/js/453.ce6e0e74.chunk.js.map"
+    "main.css": "/sravaniyarra/medical-app-url/static/css/main.de1c9320.css",
+    "main.js": "/sravaniyarra/medical-app-url/static/js/main.209d6fcd.js",
+    "static/js/453.ce6e0e74.chunk.js": "/sravaniyarra/medical-app-url/static/js/453.ce6e0e74.chunk.js",
+    "index.html": "/sravaniyarra/medical-app-url/index.html",
+    "main.de1c9320.css.map": "/sravaniyarra/medical-app-url/static/css/main.de1c9320.css.map",
+    "main.209d6fcd.js.map": "/sravaniyarra/medical-app-url/static/js/main.209d6fcd.js.map",
+    "453.ce6e0e74.chunk.js.map": "/sravaniyarra/medical-app-url/static/js/453.ce6e0e74.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.de1c9320.css",
-    "static/js/main.780a8a20.js"
+    "static/js/main.209d6fcd.js"
   ]
 }
